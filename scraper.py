@@ -21,7 +21,8 @@ CHANNELS = [
     "slipnet_chat",
     "SlipNet_app",
     "VConfing",
-    "capcutchina"
+    "capcutchina",
+    "Break_The_Barriers"
 ]
 
 HEADERS = {
